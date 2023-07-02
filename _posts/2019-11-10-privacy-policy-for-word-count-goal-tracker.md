@@ -4,8 +4,8 @@ category: blog
 ---
 
 Privacy Policy
-Last updated: 11/10/19
-Quai Wentt ("us", "we", or "our") operates Word Count Goal Tracker, a Google add-on (the
+Last updated: 07/01/2023
+Daniel Oh ("us", "we", or "our") operates Word Count Goal Tracker, a Google add-on (the
 "Plugin"). This page informs you of our policies regarding the collection, use and disclosure of
 Personal Information we receive from users of the Plugin.
 We use your Personal Information only for providing and improving the Plugin. By using the Plugin, you

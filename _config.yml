@@ -1,9 +1,9 @@
 # main text of home
-name: Quai Wentt
-bio: software engineer who loves to learn, build, and teach
+name: Daniel Oh
+bio: Full-stack Software Engineer who loves to learn, build, and teach
 
 # twitter summary info
-description: software engineer who loves to learn, build, and teach
+description: Full-stack Software Engineer who loves to learn, build, and teach
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/pdfs/QuaiResume-2021_APR.pdf
+resume-url: assets/pdfs/DanielResume-2023_JUL.pdf
 
-url: https://qlwentt.github.io
+url: https://bookmdan.github.io/danoh.github.io/
 
 permalink: /:title/
 
@@ -34,31 +34,31 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: QuaiWentt
+twitter: BokemdanE
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: Qlwentt
+github: BookmDan
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: qlwentt
+# medium: qlwentt
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: quai.wentt@gmail.com
+email: danoh329@gmail.com
 
 authors:
     quai:
-        name: Quai Wentt
+        name: Daniel Oh
         bio: learning-obsessed software engineer
         external-image: false
-        picture: assets/images/profile.png
-        twitter: QuaiWentt
+        picture: assets/images/profile.jpg
+        twitter: BokemdanE
     # jamesfoster:
     #     name: James Foster
     #     bio: A Man who develops software with coffee

@@ -1,0 +1,13 @@
+wordTagShiba
+
+wordTagShiba is a fun memory challenge and match-making game. 
+By hovering over the image, you can see which tag the user input. Then if you search for that tag, that image is both highlighted and returned on the right.
+
+It was a proof of concept for a larger project I envisioned for sending more personalized shiba stickers to friends through an online message portal. By typing in "happy" for example, it would send the tagged image associated with "happy". 
+
+Languages/Technologies
+
+    Shiba API: https://shibe.online/api/shibes?count=10, used for retrieving 10 randomized images of shiba inus 
+    JS, HTML, CSS
+
+![demo](/Users/forsale/flatiron/phase1/project1/screenshot/demo.png) 
